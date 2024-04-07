@@ -1,1 +1,78 @@
-im learning devops
+My self Subhash, I have total 5.5 years of experience, relevant 4.5 years of experience in Devops and AWS, Im currently working in FNF India which is located in Bangalore. My previous company is String info Services there i worked as a System Administrator, whcih is located in Chittoor.
+ 	
+
+My Roles and resposibilities in Devops is..
+
+
+I need to launch ec2 instances and need to configure as per requirements 
+We'll receive blue print to launch instances from client side
+
+And I need to attach autoscaling and elb policies for instances
+Also managing Linux and windows servers
+
+Managing cloudwatch and autoscaling on daily basis as per scheduled tasks.
+
+Raising tickets in Jira or assyst for cloud and on premise servers
+
+Helping team with maintenance plans and BAU(Business as usual) sheets.
+
+And updating in confluence web page for further use.
+
+Speaking daily activities in Cal's and informing client our progress work
+
+Resolving issues in cloud instances either Linux or windows machines as per report
+
+ If any issues related to production servers need to specify backout time and resolve as per solutions available
+
+If no solution available with us we need to browse Google or approch conserned team
+
+Cl/CD 
+I need to build pipelines based on requirements for  continuous integration part and continuous delivery part
+
+Building pipelines on daily basis for deployment of applications
+
+Once we deployed need to inform for testing team... In case any issues with server need to specify backout time and resolve issues
+
+Docker
+
+Need to build images with docker files.
+For that we already have pre wided scripts.
+And need to build containers and run containers by
+Mapping port with client applications or web servers
+And need to install web servers in Linux machines
+With containers
+And case if we need to take backup need to attach volumes
+
+Ansible
+
+Need to create ansible inventories based on the AWS scan reports
+For prod,pre prod,Dev,tst,eng servers
+And run ansible playbooks for configuration of applications provided by client side.
+Same like docker files we have ansible playbooks with YAML format
+Which saved in our client folders.
+
+Github
+
+Need to create repositories and informing respective team to create branches.
+
+Reviewing requests and merging request for master branch as per senior member or admin instructions.
+
+Informing team on pull requests created by team in GitHub
+
+Scripts
+
+I can understand logics and concepts for bash scripts and powershell  scripts.
+They didn't let me to write scripts in my organisation as I have only less experience
+However I can upskill my self if I get chance
+And improve my skills in scripting part
+
+Project details
+
+We have client applications which need to be maintained as per policies and requirements.
+
+And also need to install applications in EC2 machines and need to monitor utilisation.
+
+In case any issue with particular instances cloud watch will trigger alarm and we need to inform concerned application team.
+
+And need to specify backout time and resolve the queries
+Discussion with  daily activities in Cal's and informing client our progress work
